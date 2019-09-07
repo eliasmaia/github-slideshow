@@ -1,5 +1,5 @@
 # Readme
-This is a repository create for the GitHub Learning Lab course "Introducing GitHub".
+This is a repository created for the GitHub Learning Lab course "Introducing GitHub".
 
 
 # Your GitHub Learning Lab Repository for Introducing GitHub
